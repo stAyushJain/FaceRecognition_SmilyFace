@@ -1,0 +1,7 @@
+#Fri Jul 14 11:29:41 IST 2017
+base.0=/Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ad410e4da9c3a956966f2350e9c5d0b3ce9f8e86
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_85847faa972eb7e2dc964b88b041a3cd14a4ab58/classes.dex
+base.1=/Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_85847faa972eb7e2dc964b88b041a3cd14a4ab58
+file.0=/Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ad410e4da9c3a956966f2350e9c5d0b3ce9f8e86/classes.dex

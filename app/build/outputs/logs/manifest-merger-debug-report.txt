@@ -1,0 +1,138 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml:6:5-28
+		INJECTED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml:5:5-28
+		INJECTED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml:4:5-35
+uses-feature#android.hardware.camera
+ADDED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml:8:5-60
+	android:name
+		ADDED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml:8:19-57
+uses-permission#android.permission.CAMERA
+ADDED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml:10:22-62
+application
+ADDED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml:12:5-36:19
+MERGED from [com.android.support:design:25.3.1] /Users/keerthiacharya/.android/build-cache/f1f1856b8d5218570825052fb2bd54c64e3690ac/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/keerthiacharya/.android/build-cache/f696f8d2f18c70bc6b0887d1e1aa1a2b546b9d9c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/keerthiacharya/.android/build-cache/0256c174132583c55a19bad4e128a6394f5799c1/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/keerthiacharya/.android/build-cache/ac602cd87aab3ecf496136159ad71fe9fefc1443/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/keerthiacharya/.android/build-cache/3b22dfe8d18a63ef3e015614d1b5cd58f78b7e4f/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-vision:11.0.2] /Users/keerthiacharya/.android/build-cache/882ef5358c62400bbd8cc4277740162cabcb5e0f/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.2] /Users/keerthiacharya/.android/build-cache/c50f55a95b0f9ad849c783cf1849aa5e8aa30d0b/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /Users/keerthiacharya/.android/build-cache/9da90df9fbb360e82131e9f954612e49ce7a7ddc/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /Users/keerthiacharya/.android/build-cache/438fb178060b60bf8dc0a1f1a3f87e771c8209d4/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /Users/keerthiacharya/.android/build-cache/5244ab3a441e12efb0d268e76ce0b8d12e9b036b/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] /Users/keerthiacharya/.android/build-cache/0704ca9b732c99e83fa6a95b2d240b4a32dcb3cc/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/keerthiacharya/.android/build-cache/03a9d7b52ddb9eb2038cdbc15a9a958df221e285/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/keerthiacharya/.android/build-cache/37ee3cabe3d2c32bb4738cf1cfd3c75b353e8638/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/keerthiacharya/.android/build-cache/fedaa2f0c832d5af72dd629ef390a68c041b2aec/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/keerthiacharya/.android/build-cache/5be5b91b4e16b28810f19106ba046eb141d11521/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/keerthiacharya/.android/build-cache/bddef1e3c5ce302921fe32240919d50830624f0a/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml:16:9-38
+	android:hardwareAccelerated
+		ADDED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml:14:9-44
+	android:allowBackup
+		ADDED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml:15:9-47
+meta-data#com.google.android.gms.version
+ADDED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml:18:9-19:68
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /Users/keerthiacharya/.android/build-cache/5244ab3a441e12efb0d268e76ce0b8d12e9b036b/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml:19:13-66
+	android:name
+		ADDED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml:18:20-65
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml:21:9-23:36
+	android:value
+		ADDED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml:23:13-33
+	android:name
+		ADDED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml:22:13-70
+activity#com.ayush.smilyface.GooglyEyesActivity
+ADDED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml:25:9-35:20
+	android:screenOrientation
+		ADDED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml:29:13-51
+	android:label
+		ADDED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml:27:13-42
+	android:theme
+		ADDED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml:28:13-63
+	android:name
+		ADDED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml:26:13-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml:33:27-74
+uses-sdk
+INJECTED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] /Users/keerthiacharya/.android/build-cache/f1f1856b8d5218570825052fb2bd54c64e3690ac/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/keerthiacharya/.android/build-cache/f696f8d2f18c70bc6b0887d1e1aa1a2b546b9d9c/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/keerthiacharya/.android/build-cache/0256c174132583c55a19bad4e128a6394f5799c1/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/keerthiacharya/.android/build-cache/ac602cd87aab3ecf496136159ad71fe9fefc1443/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/keerthiacharya/.android/build-cache/6a4d0c19b8469276805edb9a02255a34ad1fb396/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/keerthiacharya/.android/build-cache/3b22dfe8d18a63ef3e015614d1b5cd58f78b7e4f/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:11.0.2] /Users/keerthiacharya/.android/build-cache/882ef5358c62400bbd8cc4277740162cabcb5e0f/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.2] /Users/keerthiacharya/.android/build-cache/c50f55a95b0f9ad849c783cf1849aa5e8aa30d0b/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /Users/keerthiacharya/.android/build-cache/9da90df9fbb360e82131e9f954612e49ce7a7ddc/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /Users/keerthiacharya/.android/build-cache/438fb178060b60bf8dc0a1f1a3f87e771c8209d4/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /Users/keerthiacharya/.android/build-cache/5244ab3a441e12efb0d268e76ce0b8d12e9b036b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /Users/keerthiacharya/.android/build-cache/0704ca9b732c99e83fa6a95b2d240b4a32dcb3cc/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/keerthiacharya/.android/build-cache/03a9d7b52ddb9eb2038cdbc15a9a958df221e285/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/keerthiacharya/.android/build-cache/37ee3cabe3d2c32bb4738cf1cfd3c75b353e8638/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/keerthiacharya/.android/build-cache/fedaa2f0c832d5af72dd629ef390a68c041b2aec/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/keerthiacharya/.android/build-cache/5be5b91b4e16b28810f19106ba046eb141d11521/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/keerthiacharya/.android/build-cache/bddef1e3c5ce302921fe32240919d50830624f0a/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/keerthiacharya/.android/build-cache/f1f1856b8d5218570825052fb2bd54c64e3690ac/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/keerthiacharya/.android/build-cache/f1f1856b8d5218570825052fb2bd54c64e3690ac/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/keerthiacharya/.android/build-cache/f696f8d2f18c70bc6b0887d1e1aa1a2b546b9d9c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/keerthiacharya/.android/build-cache/0256c174132583c55a19bad4e128a6394f5799c1/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/keerthiacharya/.android/build-cache/ac602cd87aab3ecf496136159ad71fe9fefc1443/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/keerthiacharya/.android/build-cache/6a4d0c19b8469276805edb9a02255a34ad1fb396/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/keerthiacharya/.android/build-cache/3b22dfe8d18a63ef3e015614d1b5cd58f78b7e4f/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/keerthiacharya/.android/build-cache/0704ca9b732c99e83fa6a95b2d240b4a32dcb3cc/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/keerthiacharya/.android/build-cache/03a9d7b52ddb9eb2038cdbc15a9a958df221e285/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/keerthiacharya/.android/build-cache/37ee3cabe3d2c32bb4738cf1cfd3c75b353e8638/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/keerthiacharya/.android/build-cache/fedaa2f0c832d5af72dd629ef390a68c041b2aec/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/keerthiacharya/.android/build-cache/5be5b91b4e16b28810f19106ba046eb141d11521/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/keerthiacharya/.android/build-cache/bddef1e3c5ce302921fe32240919d50830624f0a/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/keerthiacharya/.android/build-cache/f1f1856b8d5218570825052fb2bd54c64e3690ac/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/keerthiacharya/.android/build-cache/f1f1856b8d5218570825052fb2bd54c64e3690ac/output/AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/keerthiacharya/.android/build-cache/9da90df9fbb360e82131e9f954612e49ce7a7ddc/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/keerthiacharya/.android/build-cache/9da90df9fbb360e82131e9f954612e49ce7a7ddc/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/keerthiacharya/.android/build-cache/9da90df9fbb360e82131e9f954612e49ce7a7ddc/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/keerthiacharya/.android/build-cache/9da90df9fbb360e82131e9f954612e49ce7a7ddc/output/AndroidManifest.xml:19:19-85

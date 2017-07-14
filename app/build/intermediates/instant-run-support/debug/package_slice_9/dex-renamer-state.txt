@@ -1,0 +1,4 @@
+#Fri Jul 14 15:31:35 IST 2017
+base.0=/Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9
+renamed.0=classes.dex
+file.0=/Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex

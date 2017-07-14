@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/keerthiacharya/.android/build-cache/f696f8d2f18c70bc6b0887d1e1aa1a2b546b9d9c/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/keerthiacharya/.android/build-cache/f696f8d2f18c70bc6b0887d1e1aa1a2b546b9d9c/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/keerthiacharya/.android/build-cache/f1f1856b8d5218570825052fb2bd54c64e3690ac/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/keerthiacharya/.android/build-cache/f696f8d2f18c70bc6b0887d1e1aa1a2b546b9d9c/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/keerthiacharya/.android/build-cache/f696f8d2f18c70bc6b0887d1e1aa1a2b546b9d9c/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/keerthiacharya/.android/build-cache/f696f8d2f18c70bc6b0887d1e1aa1a2b546b9d9c/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/keerthiacharya/.android/build-cache/f696f8d2f18c70bc6b0887d1e1aa1a2b546b9d9c/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/keerthiacharya/.android/build-cache/f696f8d2f18c70bc6b0887d1e1aa1a2b546b9d9c/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/keerthiacharya/.android/build-cache/f1f1856b8d5218570825052fb2bd54c64e3690ac/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/keerthiacharya/.android/build-cache/f1f1856b8d5218570825052fb2bd54c64e3690ac/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/keerthiacharya/.android/build-cache/f696f8d2f18c70bc6b0887d1e1aa1a2b546b9d9c/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/keerthiacharya/.android/build-cache/f1f1856b8d5218570825052fb2bd54c64e3690ac/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/keerthiacharya/.android/build-cache/f1f1856b8d5218570825052fb2bd54c64e3690ac/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/keerthiacharya/.android/build-cache/f696f8d2f18c70bc6b0887d1e1aa1a2b546b9d9c/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/keerthiacharya/.android/build-cache/f1f1856b8d5218570825052fb2bd54c64e3690ac/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/keerthiacharya/.android/build-cache/f696f8d2f18c70bc6b0887d1e1aa1a2b546b9d9c/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    }
+]

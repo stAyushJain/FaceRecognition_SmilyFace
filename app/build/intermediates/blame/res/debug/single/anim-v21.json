@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/keerthiacharya/.android/build-cache/f1f1856b8d5218570825052fb2bd54c64e3690ac/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/keerthiacharya/.android/build-cache/f1f1856b8d5218570825052fb2bd54c64e3690ac/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/build/intermediates/res/merged/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/Users/keerthiacharya/Downloads/android-vision-master/visionSamples/googly-eyes/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/anim-v21/design_appbar_state_list_animator.xml"
+    }
+]
